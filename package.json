@@ -1,0 +1,23 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "Automation of Web applications using Cypress",
+  "homepage": "https://github.com/rahuljala/cypressautomation#readme",
+  "bugs": {
+    "url": "https://github.com/rahuljala/cypressautomation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahuljala/cypressautomation.git"
+  },
+  "license": "ISC",
+  "author": "Rahul Reddy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^14.3.2"
+  }
+}
